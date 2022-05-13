@@ -125,7 +125,7 @@
             // FormTextMapBrowser
             // 
             resources.ApplyResources(this, "$this");
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
             this.Controls.Add(this.DGVTextMap);
             this.Controls.Add(this.BtnSearch);
             this.Controls.Add(this.ChkTopMost);
